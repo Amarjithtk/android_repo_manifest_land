@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<project name="Amarjithtk/android_kernel_xiaomi_land" path="kernel/xiaomi/msm8937" remote="github" revision="pie"/>
-	<project name="SuperiorOS-Devices/vendor_xiaomi_land" path="vendor/xiaomi/" remote="github" revision="pie"/>
-	<project name="Amarjithtk/SF_uploader" path="~/android/pie" remote="github" revision="master"/>
+	<project name="Amarjithtk/android_vendor_xiaomi_land" path="vendor/xiaomi/" remote="github" revision="pie"/>
+	<project name="Amarjithtk/android_device_xiaomi_land" path="vendor/xiaomi/" remote="github" revision="pie"/>
+	<project name="Amarjithtk/SF_uploader" path="~/android/pie/" remote="github" revision="master"/>
 </manifest>
